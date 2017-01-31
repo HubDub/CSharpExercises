@@ -7,7 +7,7 @@ namespace ConsoleApplication
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var car = new Car();
+            Car car = new Car();
             car.Start(); 
         }
     }
